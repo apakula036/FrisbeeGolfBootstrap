@@ -1,0 +1,22 @@
+.table-custom {
+    background-color: rgb(197, 197, 197);
+    text-align: center;
+}
+.holeCustom {
+    color: black;
+    font-weight: bold;
+    background-color: #979696;
+}
+
+.bg-highlandSection {
+    background-color: #1a7bbc !important;
+}
+.bg-dellwoodSection {
+    background-color: #1abc70 !important;
+}
+.bg-heritageSection {
+    background-color: #891abcb9 !important;
+}
+.bg-oaksSection {
+    background-color: #bc911a !important;
+}
